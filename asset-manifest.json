@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Lofi_frontend/static/css/main.69559582.css",
+    "main.js": "/Lofi_frontend/static/js/main.2a88d3d5.js",
+    "static/js/453.e5407da2.chunk.js": "/Lofi_frontend/static/js/453.e5407da2.chunk.js",
+    "static/media/Logo.png.png": "/Lofi_frontend/static/media/Logo.png.a28cfb7951302d3bb85a.png",
+    "static/media/logo.png": "/Lofi_frontend/static/media/logo.570991a5f19f84e7de41.png",
+    "static/media/spotify_logo_white.svg": "/Lofi_frontend/static/media/spotify_logo_white.9bd6d35f25f268d9c716b4bfad182808.svg",
+    "index.html": "/Lofi_frontend/index.html",
+    "main.69559582.css.map": "/Lofi_frontend/static/css/main.69559582.css.map",
+    "main.2a88d3d5.js.map": "/Lofi_frontend/static/js/main.2a88d3d5.js.map",
+    "453.e5407da2.chunk.js.map": "/Lofi_frontend/static/js/453.e5407da2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69559582.css",
+    "static/js/main.2a88d3d5.js"
+  ]
+}
