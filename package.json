@@ -1,7 +1,7 @@
 {
   "name": "web",
   "version": "0.1.0",
-  "homepage": "https://SamarthGangrade22.github.io/Lofi_frontend",
+  "homepage": "https://lofi-frontend.onrender.com",
   "private": true,
   "dependencies": {
     "@iconify/react": "^5.2.1",
